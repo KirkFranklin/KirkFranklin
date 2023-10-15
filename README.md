@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KirkFranklin
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Django/React
 - 💞️ I’m looking to collaborate on Website development using html, css and javascript
 - 📫 You can reach me at kfranklyn20@gmail.com
 
